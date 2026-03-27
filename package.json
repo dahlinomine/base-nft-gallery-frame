@@ -1,0 +1,14 @@
+{
+  "name": "base-nft-gallery-frame",
+  "version": "0.1.0",
+  "description": "Showcase and trade Base NFT collections inside a Frame",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
